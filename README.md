@@ -1,7 +1,7 @@
 # 🌤️Weather-Report
 Weather Report Website This is a Weather Report website created using HTML, CSS, and JavaScript. The website displays current weather conditions, including temperature, humidity, wind speed, and weather icons, for a user-specified location. The website also allows users to search for weather conditions in different locations using a search bar.
 
-## 🗝️Features
+## 🗝🔑Features
 - *Location-based weather forecast:* The website can use geolocation to detect the user's location and provide a weather forecast for that location.
 - *Real-time weather updates:* The website can use APIs to fetch real-time weather updates and display them on the website.
 - *Temperature and humidity graphs:* The website can display temperature and humidity graphs for the current day or several days, allowing users to see changes in weather patterns.
@@ -28,5 +28,5 @@ https://climate-forcaste.netlify.app/
 ![Screenshot 2023-05-04 180928](https://user-images.githubusercontent.com/128722563/236208795-4475cf13-c8bc-4f81-b4a3-beaf1ea3d0f4.png)
 ![Screenshot 2023-05-04 181006](https://user-images.githubusercontent.com/128722563/236208800-2c10811c-a443-472d-9660-4cfa910c1938.png)
 
-## Credit
+## ✒️Credit
 Created By- *SAVHAR VERMA*
