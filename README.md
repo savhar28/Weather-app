@@ -1,7 +1,7 @@
 # 🌤️Weather-Report
 Weather Report Website This is a Weather Report website created using HTML, CSS, and JavaScript. The website displays current weather conditions, including temperature, humidity, wind speed, and weather icons, for a user-specified location. The website also allows users to search for weather conditions in different locations using a search bar.
 
-## 🗝🔑Features
+## 🔑Features
 - *Location-based weather forecast:* The website can use geolocation to detect the user's location and provide a weather forecast for that location.
 - *Real-time weather updates:* The website can use APIs to fetch real-time weather updates and display them on the website.
 - *Temperature and humidity graphs:* The website can display temperature and humidity graphs for the current day or several days, allowing users to see changes in weather patterns.
